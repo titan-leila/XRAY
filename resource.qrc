@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>Images/about.png</file>
+        <file>Images/Button Close-01.png</file>
+        <file>Images/Copy.png</file>
+        <file>Images/cut.png</file>
+        <file>Images/Document New-01.png</file>
+        <file>Images/folder-open.png</file>
+        <file>Images/new_icon.png</file>
+        <file>Images/Paste.png</file>
+        <file>Images/redo_16.png</file>
+        <file>Images/save.png</file>
+        <file>Images/saveas.png</file>
+        <file>Images/Thumbs.db</file>
+        <file>Images/titan.jpg</file>
+        <file>Images/titan.png</file>
+        <file>Images/titan_big.png</file>
+        <file>Images/titan1.png</file>
+        <file>Images/undo_16.png</file>
+        <file>Images/button.png</file>
+        <file>Images/187850234.jpg</file>
+    </qresource>
+</RCC>
